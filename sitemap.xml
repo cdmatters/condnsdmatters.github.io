@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/projects/thesis/</loc>
+    <lastmod>2018-10-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/projects/rowlang/</loc>
+    <lastmod>2018-06-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/projects/monty/</loc>
+    <lastmod>2017-05-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/projects/smithers/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/post/</loc>
+    <lastmod>2017-03-02T12:00:00-05:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/projects/twirps/</loc>
+    <lastmod>2016-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/projects/snayk/</loc>
+    <lastmod>2015-03-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/categories/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/data-science/</loc>
+    <lastmod>2016-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/flask/</loc>
+    <lastmod>2016-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/infrastructure/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/interactive/</loc>
+    <lastmod>2015-03-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/javascript/</loc>
+    <lastmod>2016-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/ml/</loc>
+    <lastmod>2018-10-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/nlp/</loc>
+    <lastmod>2018-06-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/python/</loc>
+    <lastmod>2018-10-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/research/</loc>
+    <lastmod>2018-10-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/smithers/monty/</loc>
+    <lastmod>2017-05-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/</loc>
+    <lastmod>2017-04-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/tensorflow/</loc>
+    <lastmod>2018-10-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/tags/zmq/</loc>
+    <lastmod>2017-05-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/</loc>
+    <lastmod>2018-10-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/projects/</loc>
+    <lastmod>2018-10-09T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://condnsdmatters.github.io/vitae/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>

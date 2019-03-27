@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on eric hambro</title>
+    <link>https://condnsdmatters.github.io/tags/</link>
+    <description>Recent content in Tags on eric hambro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://condnsdmatters.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://condnsdmatters.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://condnsdmatters.github.io/tags/data-science/</link>
+      <pubDate>Sat, 09 Apr 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask</title>
+      <link>https://condnsdmatters.github.io/tags/flask/</link>
+      <pubDate>Sat, 09 Apr 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://condnsdmatters.github.io/tags/infrastructure/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interactive</title>
+      <link>https://condnsdmatters.github.io/tags/interactive/</link>
+      <pubDate>Mon, 09 Mar 2015 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/interactive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://condnsdmatters.github.io/tags/javascript/</link>
+      <pubDate>Sat, 09 Apr 2016 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ml</title>
+      <link>https://condnsdmatters.github.io/tags/ml/</link>
+      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nlp</title>
+      <link>https://condnsdmatters.github.io/tags/nlp/</link>
+      <pubDate>Sat, 09 Jun 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://condnsdmatters.github.io/tags/python/</link>
+      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://condnsdmatters.github.io/tags/research/</link>
+      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Smithers/Monty</title>
+      <link>https://condnsdmatters.github.io/tags/smithers/monty/</link>
+      <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/smithers/monty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensorflow</title>
+      <link>https://condnsdmatters.github.io/tags/tensorflow/</link>
+      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zmq</title>
+      <link>https://condnsdmatters.github.io/tags/zmq/</link>
+      <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/tags/zmq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

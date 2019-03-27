@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zmq on eric hambro</title>
+    <link>https://condnsdmatters.github.io/tags/zmq/</link>
+    <description>Recent content in Zmq on eric hambro</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 May 2017 10:58:08 -0400</lastBuildDate>
+    
+	<atom:link href="https://condnsdmatters.github.io/tags/zmq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>monty</title>
+      <link>https://condnsdmatters.github.io/projects/monty/</link>
+      <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/projects/monty/</guid>
+      <description> Monty is a repository of bots that work with the smithers poker bot engine.
+Write Up Coming Soon The Stack  python3.5 pyzmq numpy  Github </description>
+    </item>
+    
+    <item>
+      <title>smithers</title>
+      <link>https://condnsdmatters.github.io/projects/smithers/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://condnsdmatters.github.io/projects/smithers/</guid>
+      <description> Smithers is a poker bot server in C++. It allows your bots to play poker against each other very fast. It is written in C++ because when C++ is your hammer, everything is a thumb.
+Write Up Coming Soon The Stack  C++ ZMQ websockets Docker  Github </description>
+    </item>
+    
+  </channel>
+</rss>

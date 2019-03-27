@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ml on eric hambro</title>
-    <link>https://condnsdmatters.github.io/tags/ml/</link>
+    <link>https://erichambro.com/tags/ml/</link>
     <description>Recent content in Ml on eric hambro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 09 Oct 2018 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://condnsdmatters.github.io/tags/ml/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://erichambro.com/tags/ml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>automatic documentation of python functions</title>
-      <link>https://condnsdmatters.github.io/projects/thesis/</link>
+      <link>https://erichambro.com/projects/thesis/</link>
       <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/projects/thesis/</guid>
+      <guid>https://erichambro.com/projects/thesis/</guid>
       <description> Write Up Coming Soon The Stack  python3.6 tensorflow numpy sphinx matplotlib LaTeX  Github </description>
     </item>
     
     <item>
       <title>rowlang</title>
-      <link>https://condnsdmatters.github.io/projects/rowlang/</link>
+      <link>https://erichambro.com/projects/rowlang/</link>
       <pubDate>Sat, 09 Jun 2018 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/projects/rowlang/</guid>
+      <guid>https://erichambro.com/projects/rowlang/</guid>
       <description> Write Up Coming Soon The Stack  python3.5 tensorflow numpy  Github </description>
     </item>
     

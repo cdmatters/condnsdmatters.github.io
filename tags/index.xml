@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on eric hambro</title>
-    <link>https://condnsdmatters.github.io/tags/</link>
+    <link>https://erichambro.com/tags/</link>
     <description>Recent content in Tags on eric hambro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://condnsdmatters.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://erichambro.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>C&#43;&#43;</title>
-      <link>https://condnsdmatters.github.io/tags/c&#43;&#43;/</link>
+      <link>https://erichambro.com/tags/c&#43;&#43;/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/c&#43;&#43;/</guid>
+      <guid>https://erichambro.com/tags/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://condnsdmatters.github.io/tags/data-science/</link>
+      <link>https://erichambro.com/tags/data-science/</link>
       <pubDate>Sat, 09 Apr 2016 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/data-science/</guid>
+      <guid>https://erichambro.com/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flask</title>
-      <link>https://condnsdmatters.github.io/tags/flask/</link>
+      <link>https://erichambro.com/tags/flask/</link>
       <pubDate>Sat, 09 Apr 2016 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/flask/</guid>
+      <guid>https://erichambro.com/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Infrastructure</title>
-      <link>https://condnsdmatters.github.io/tags/infrastructure/</link>
+      <link>https://erichambro.com/tags/infrastructure/</link>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/infrastructure/</guid>
+      <guid>https://erichambro.com/tags/infrastructure/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Interactive</title>
-      <link>https://condnsdmatters.github.io/tags/interactive/</link>
+      <link>https://erichambro.com/tags/interactive/</link>
       <pubDate>Mon, 09 Mar 2015 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/interactive/</guid>
+      <guid>https://erichambro.com/tags/interactive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>https://condnsdmatters.github.io/tags/javascript/</link>
+      <link>https://erichambro.com/tags/javascript/</link>
       <pubDate>Sat, 09 Apr 2016 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/javascript/</guid>
+      <guid>https://erichambro.com/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ml</title>
-      <link>https://condnsdmatters.github.io/tags/ml/</link>
+      <link>https://erichambro.com/tags/ml/</link>
       <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/ml/</guid>
+      <guid>https://erichambro.com/tags/ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nlp</title>
-      <link>https://condnsdmatters.github.io/tags/nlp/</link>
+      <link>https://erichambro.com/tags/nlp/</link>
       <pubDate>Sat, 09 Jun 2018 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/nlp/</guid>
+      <guid>https://erichambro.com/tags/nlp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://condnsdmatters.github.io/tags/python/</link>
+      <link>https://erichambro.com/tags/python/</link>
       <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/python/</guid>
+      <guid>https://erichambro.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://condnsdmatters.github.io/tags/research/</link>
+      <link>https://erichambro.com/tags/research/</link>
       <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/research/</guid>
+      <guid>https://erichambro.com/tags/research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Smithers/Monty</title>
-      <link>https://condnsdmatters.github.io/tags/smithers/monty/</link>
+      <link>https://erichambro.com/tags/smithers/monty/</link>
       <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/smithers/monty/</guid>
+      <guid>https://erichambro.com/tags/smithers/monty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tensorflow</title>
-      <link>https://condnsdmatters.github.io/tags/tensorflow/</link>
+      <link>https://erichambro.com/tags/tensorflow/</link>
       <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/tensorflow/</guid>
+      <guid>https://erichambro.com/tags/tensorflow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zmq</title>
-      <link>https://condnsdmatters.github.io/tags/zmq/</link>
+      <link>https://erichambro.com/tags/zmq/</link>
       <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
       
-      <guid>https://condnsdmatters.github.io/tags/zmq/</guid>
+      <guid>https://erichambro.com/tags/zmq/</guid>
       <description></description>
     </item>
     

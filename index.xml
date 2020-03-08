@@ -17,7 +17,8 @@
       <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
       
       <guid>https://erichambro.com/projects/thesis/</guid>
-      <description> Write Up Coming Soon The Stack  python3.6 tensorflow numpy sphinx matplotlib LaTeX  Github </description>
+      <description> For my Master&amp;rsquo;s thesis at UCL, I investigated how the latest NLP techniques could be applied to written source code, to generate English description of source code arguments. The submitted thesis can be downloaded here and source code is available below. It got the second highest mark in the year.
+Write Up Coming Soon The Stack  python3.6 tensorflow numpy sphinx matplotlib LaTeX  Github </description>
     </item>
     
     <item>
@@ -26,7 +27,8 @@
       <pubDate>Sat, 09 Jun 2018 10:58:08 -0400</pubDate>
       
       <guid>https://erichambro.com/projects/rowlang/</guid>
-      <description> Write Up Coming Soon The Stack  python3.5 tensorflow numpy  Github </description>
+      <description> [In Progress]
+Write Up Coming Soon The Stack  python3.5 tensorflow numpy  Github </description>
     </item>
     
     <item>
@@ -35,7 +37,8 @@
       <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
       
       <guid>https://erichambro.com/projects/monty/</guid>
-      <description> Monty is a repository of bots that work with the smithers poker bot engine.
+      <description> Monty is a repository of bots that work with the smithers poker bot engine. Currently these bots are quite naive, but the aim is to investigate multi-agent RL in this scenario.
+You can watch a very naive game between bots (prerecorded and slowed down to human-viewing speed) here.
 Write Up Coming Soon The Stack  python3.5 pyzmq numpy  Github </description>
     </item>
     
@@ -45,8 +48,8 @@ Write Up Coming Soon The Stack  python3.5 pyzmq numpy  Github </description>
       <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
       
       <guid>https://erichambro.com/projects/smithers/</guid>
-      <description> Smithers is a poker bot server in C++. It allows your bots to play poker against each other very fast. It is written in C++ because when C++ is your hammer, everything is a thumb.
-Write Up Coming Soon The Stack  C++ ZMQ websockets Docker  Github </description>
+      <description>Smithers is a poker bot server in C++. It allows your bots to play poker against each other very fast over a network. It is implemented in C++, partly as an exercise, partly as a learning opportunity in learning a low level stack, and partly because it&amp;rsquo;s fast.
+In terms of its structure, Smithers is composed of a configuration for a mongrel2 server (which hooks up the http/websockets requests to ZeroMQ endpoints) and an executable which communicates with those endpoints and effectively runs the game.</description>
     </item>
     
     <item>

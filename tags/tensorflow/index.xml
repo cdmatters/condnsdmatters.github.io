@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tensorflow on eric hambro</title>
+    <title>tensorflow on eric hambro</title>
     <link>https://erichambro.com/tags/tensorflow/</link>
-    <description>Recent content in Tensorflow on eric hambro</description>
+    <description>Recent content in tensorflow on eric hambro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Oct 2018 10:58:08 -0400</lastBuildDate>
-    
-	<atom:link href="https://erichambro.com/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 09 Oct 2018 10:58:08 -0400</lastBuildDate><atom:link href="https://erichambro.com/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>automatic documentation of python functions</title>
       <link>https://erichambro.com/projects/thesis/</link>
       <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
       
       <guid>https://erichambro.com/projects/thesis/</guid>
-      <description> For my Master&amp;rsquo;s thesis at UCL, I investigated how the latest NLP techniques could be applied to written source code, to generate English description of source code arguments. The submitted thesis can be downloaded here and source code is available below. It got the second highest mark in the year.
+      <description>For my Master&amp;rsquo;s thesis at UCL, I investigated how the latest NLP techniques could be applied to written source code, to generate English description of source code arguments. The submitted thesis can be downloaded here and source code is available below. It got the second highest mark in the year.
 Write Up Coming Soon The Stack  python3.6 tensorflow numpy sphinx matplotlib LaTeX  Github </description>
     </item>
     
@@ -27,7 +23,7 @@ Write Up Coming Soon The Stack  python3.6 tensorflow numpy sphinx matplotlib LaT
       <pubDate>Sat, 09 Jun 2018 10:58:08 -0400</pubDate>
       
       <guid>https://erichambro.com/projects/rowlang/</guid>
-      <description> [In Progress]
+      <description>[In Progress]
 Write Up Coming Soon The Stack  python3.5 tensorflow numpy  Github </description>
     </item>
     

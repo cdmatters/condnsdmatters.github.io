@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on eric hambro</title>
@@ -6,10 +6,60 @@
     <description>Recent content in Tags on eric hambro</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 09 Oct 2018 10:58:08 -0400</lastBuildDate><atom:link href="https://erichambro.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ML</title>
+      <link>https://erichambro.com/tags/ml/</link>
+      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://erichambro.com/tags/ml/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://erichambro.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python</title>
+      <link>https://erichambro.com/tags/python/</link>
+      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://erichambro.com/tags/python/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>research</title>
+      <link>https://erichambro.com/tags/research/</link>
+      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://erichambro.com/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>https://erichambro.com/tags/tensorflow/</link>
+      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://erichambro.com/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://erichambro.com/tags/nlp/</link>
+      <pubDate>Sat, 09 Jun 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://erichambro.com/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZMQ</title>
+      <link>https://erichambro.com/tags/zmq/</link>
+      <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://erichambro.com/tags/zmq/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>C&#43;&#43;</title>
@@ -21,7 +71,16 @@
     </item>
     
     <item>
-      <title>Data Science</title>
+      <title>infrastructure</title>
+      <link>https://erichambro.com/tags/infrastructure/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://erichambro.com/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data science</title>
       <link>https://erichambro.com/tags/data-science/</link>
       <pubDate>Sat, 09 Apr 2016 10:58:08 -0400</pubDate>
       
@@ -39,25 +98,7 @@
     </item>
     
     <item>
-      <title>Infrastructure</title>
-      <link>https://erichambro.com/tags/infrastructure/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://erichambro.com/tags/infrastructure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Interactive</title>
-      <link>https://erichambro.com/tags/interactive/</link>
-      <pubDate>Mon, 09 Mar 2015 10:58:08 -0400</pubDate>
-      
-      <guid>https://erichambro.com/tags/interactive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javascript</title>
+      <title>javascript</title>
       <link>https://erichambro.com/tags/javascript/</link>
       <pubDate>Sat, 09 Apr 2016 10:58:08 -0400</pubDate>
       
@@ -66,65 +107,20 @@
     </item>
     
     <item>
-      <title>Ml</title>
-      <link>https://erichambro.com/tags/ml/</link>
-      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
+      <title>interactive</title>
+      <link>https://erichambro.com/tags/interactive/</link>
+      <pubDate>Mon, 09 Mar 2015 10:58:08 -0400</pubDate>
       
-      <guid>https://erichambro.com/tags/ml/</guid>
+      <guid>https://erichambro.com/tags/interactive/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Nlp</title>
-      <link>https://erichambro.com/tags/nlp/</link>
-      <pubDate>Sat, 09 Jun 2018 10:58:08 -0400</pubDate>
-      
-      <guid>https://erichambro.com/tags/nlp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://erichambro.com/tags/python/</link>
-      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
-      
-      <guid>https://erichambro.com/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://erichambro.com/tags/research/</link>
-      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
-      
-      <guid>https://erichambro.com/tags/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Smithers/Monty</title>
+      <title>smithers/monty</title>
       <link>https://erichambro.com/tags/smithers/monty/</link>
-      <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://erichambro.com/tags/smithers/monty/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tensorflow</title>
-      <link>https://erichambro.com/tags/tensorflow/</link>
-      <pubDate>Tue, 09 Oct 2018 10:58:08 -0400</pubDate>
-      
-      <guid>https://erichambro.com/tags/tensorflow/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zmq</title>
-      <link>https://erichambro.com/tags/zmq/</link>
-      <pubDate>Tue, 09 May 2017 10:58:08 -0400</pubDate>
-      
-      <guid>https://erichambro.com/tags/zmq/</guid>
       <description></description>
     </item>
     

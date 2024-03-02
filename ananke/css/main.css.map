@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/erichambro/Weez/website",
+	"sourceRoot": "/Users/erichambro/Weez/gohugo-theme-ananke",
 	"sources": [
 		"ananke/css/main.css"
 	],
